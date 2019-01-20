@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 RelativeLayout is not set as default.
 
-Design view would snap objects to the top left corner of the screen. Therefore, objects had to hard coded in text view to align in the desired position.
+Design view would snap objects to the top left corner of the screen. Therefore, objects had to be hard coded in text view to align in the desired position.
 
 ## License
 
